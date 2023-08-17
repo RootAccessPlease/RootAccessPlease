@@ -1,4 +1,7 @@
 ### 👋 Hi, I’m Dennis!
 
-I'm a seasoned web developer with over **6+ years** of professional experience *(And even more as a hobbyist!)* in building modern, clean and complex web applications.
-Highly skilled and well-versed in LAMP/LEMP-stack with a passion for Laravel and Linux.
+I am a seasoned web developer with over 7 years of professional experience, coupled with even more time invested on a personal level.
+
+I possess a profound passion for all aspects related to backend development and sysadmin work.
+
+My primary skills revolve around PHP, encompassing both vanilla programming and frameworks such as Symfony and Laravel. In addition, I am adept in Javascript, working with frameworks and libraries like jQuery, Alpine, and Vue.
